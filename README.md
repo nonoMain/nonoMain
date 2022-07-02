@@ -42,8 +42,9 @@
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipseide&logoColor=white&color=5043ff)
 ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=5043ff)
 
-<a href="https://github.com/nonoMain/nonoArch">
-  <img align="center" src="https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=5043ff" />
+## Find me here
+<a href="https://www.linkedin.com/in/noam-eliyahu-05751a242/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Noam_Daniel_Eliyahu-informational?style=flat&logo=linkedin&logoColor=white&color=0a66c2" />
 </a>
 
 ## Nicely done
