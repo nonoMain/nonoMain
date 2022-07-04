@@ -48,6 +48,14 @@
 </a>
 
 ## Nicely done
+<a href="https://github.com/nonoMain/keeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nonoMain&repo=keeper&title_color=21bcdb&text_color=c9cacc&icon_color=21bcdb&bg_color=1d1f21" />
+</a>
+
+## Like my setup? have it!
 <a href="https://github.com/nonoMain/nonoArch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nonoMain&repo=nonoArch&title_color=21bcdb&text_color=c9cacc&icon_color=21bcdb&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/nonoMain/nvimrc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nonoMain&repo=nvimrc&title_color=21bcdb&text_color=c9cacc&icon_color=21bcdb&bg_color=1d1f21" />
 </a>
