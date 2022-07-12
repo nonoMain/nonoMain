@@ -1,3 +1,4 @@
+<!-- badges are from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 # nonoMain - Hey! <img src="https://raw.githubusercontent.com/nonoMain/nonoMain/master/wave.gif" width="30px" height="30px" />
 **A enthusiastic software dev, currently in love with low level and back end development**
 
@@ -7,25 +8,38 @@
 - Machine learning
 
 ## 💣 Weapons of choice
-### 🖥️ Desktop side
-![](https://img.shields.io/badge/Os-Arch_linux-informational?style=flat&logo=archlinux&logoColor=white&color=2166a6)
+**🖥️ Desktop side**
+
+![](https://img.shields.io/badge/OS-Arch_linux-informational?style=flat&logo=archlinux&logoColor=white&color=2166a6)
 ![](https://img.shields.io/badge/Text_editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=22a664)
-### 📡  Server side
-![](https://img.shields.io/badge/Os-CentOS_linux-informational?style=flat&logo=centos&logoColor=white&color=2166a6)
+
+**📡 Server side**
+
+![](https://img.shields.io/badge/OS-CentOS_linux-informational?style=flat&logo=centos&logoColor=white&color=2166a6)
 ![](https://img.shields.io/badge/Text_editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=22a664)
-### General
+
+**General**
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=22a664)
 ![](https://img.shields.io/badge/Git_client-Lazygit-informational?style=flat&logo=git&logoColor=white&color=22a664)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=22a664)
+
 ## 🔧 Technologies & Tools I'm experienced with
 <!-- OS -->
-![](https://img.shields.io/badge/Os-Linux-informational?style=flat&logo=linux&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/Os-Windows-informational?style=flat&logo=windows&logoColor=white&color=2166a6)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2166a6)
+![](https://img.shields.io/badge/OS-CentOS_linux-informational?style=flat&logo=centos&logoColor=white&color=2166a6)
+![](https://img.shields.io/badge/OS-Arch_linux-informational?style=flat&logo=archlinux&logoColor=white&color=2166a6)
+![](https://img.shields.io/badge/OS-Raspbian-informational?style=flat&logo=raspberrypi&logoColor=white&color=2166a6)
+![](https://img.shields.io/badge/"OS"-Windows-informational?style=flat&logo=windows&logoColor=white&color=2166a6)
 <!-- Tools -->
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Tool-Virtualbox-informational?style=flat&logo=virtualbox&logoColor=white&color=22a664)
 ![](https://img.shields.io/badge/Tool-Make-informational?style=flat&logo=cmake&logoColor=white&color=22a664)
 ![](https://img.shields.io/badge/Tool-Cmake-informational?style=flat&logo=cmake&logoColor=white&color=22a664)
+![](https://img.shields.io/badge/Tool-Virtualbox-informational?style=flat&logo=virtualbox&logoColor=white&color=22a664)
+![](https://img.shields.io/badge/Tool-QEMU-informational?style=flat&logo=qemu&logoColor=white&color=22a664)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=22a664)
+<!-- Protocols -->
+![](https://img.shields.io/badge/Protocol-MQTT-informational?style=flat&color=22a664)
 <!-- Programming languages -->
 ![](https://img.shields.io/badge/Language-Assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=a62336)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=a62336)
