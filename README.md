@@ -1,75 +1,90 @@
 <!-- badges are from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+<!-- cool ones are from here https://dev.to/envoy_/150-badges-for-github-pnk -->
 # nonoMain - Hey! <img src="https://raw.githubusercontent.com/nonoMain/nonoMain/master/wave.gif" width="30px" height="30px" />
-**A enthusiastic software dev, currently in love with low level and back end development**
+**An enthusiastic software dev, in love with low level and backend development**
 
-## Software interests
+Currently working on [Horus](https://github.com/HorusRS/Horus)
+
+## 🔭 Software interests
 - Product development
 - Security
-- Machine learning
+- Linux internals
 
 ## 💣 Weapons of choice
-**🖥️ Desktop side**
-
-![](https://img.shields.io/badge/OS-Arch_linux-informational?style=flat&logo=archlinux&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/Text_editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=22a664)
-
-**📡 Server side**
-
-![](https://img.shields.io/badge/OS-CentOS_linux-informational?style=flat&logo=centos&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/Text_editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=22a664)
 
 **General**
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Git_client-Lazygit-informational?style=flat&logo=git&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=22a664)
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/GNU_Bash-242A30?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![](https://img.shields.io/badge/Lazygit-323232?style=flat&logo=git&logoColor=FFAE33)
+![](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![](https://img.shields.io/badge/Brave-D64527?style=flat&logo=brave&logoColor=white)
 
-## 🔧 Technologies & Tools I'm experienced with
+**🖥️ Desktop side**
+
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+
+**📡 Server side**
+
+![](https://img.shields.io/badge/Proxmox-C76810?style=flat&logo=proxmox&logoColor=white)
+![](https://img.shields.io/badge/Rocky_Linux-11A575?style=flat&logo=rockylinux&logoColor=white)
+![](https://img.shields.io/badge/TrueNAS-0385BD?style=flat&logo=truenas&logoColor=white)
+![](https://img.shields.io/badge/PhotonOS-167C80?style=flat&logo=vmware&logoColor=white)
+![](https://img.shields.io/badge/Docker-113E77?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpine-linux&logoColor=white)
+
+## 🔧 Other tech / tools I'm experienced with
+
+OS (without Windows for the same reason HTML isn't a programming language)
 <!-- OS -->
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/OS-CentOS_linux-informational?style=flat&logo=centos&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/OS-Arch_linux-informational?style=flat&logo=archlinux&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/OS-Raspbian-informational?style=flat&logo=raspberrypi&logoColor=white&color=2166a6)
-![](https://img.shields.io/badge/"OS"-Windows-informational?style=flat&logo=windows&logoColor=white&color=2166a6)
+![](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
+![](https://img.shields.io/badge/Cent_OS-262577?style=flat&logo=CentOS&logoColor=white)
+![](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/freebsd-AB2B28?style=flat&logo=freebsd&logoColor=white)
+![](https://img.shields.io/badge/Raspbian_OS-A22846?style=flat&logo=raspberrypi&logoColor=white)
+
+Tools
 <!-- Tools -->
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Tool-Make-informational?style=flat&logo=cmake&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Tool-Cmake-informational?style=flat&logo=cmake&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Tool-Virtualbox-informational?style=flat&logo=virtualbox&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Tool-QEMU-informational?style=flat&logo=qemu&logoColor=white&color=22a664)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=22a664)
-<!-- Protocols -->
-![](https://img.shields.io/badge/Protocol-MQTT-informational?style=flat&color=22a664)
+![](https://img.shields.io/badge/Nginx-028534?style=flat&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Wireguard-771517?style=flat&logo=wireguard&logoColor=white)
+![](https://img.shields.io/badge/QEMU-323232?style=flat&logo=qemu&logoColor=E35D05)
+![](https://img.shields.io/badge/Make-4D57E3?&style=flat&logo=cmake&logoColor=white)
+![](https://img.shields.io/badge/Cmake-4D57E3?&style=flat&logo=cmake&logoColor=white)
+
+Languages
 <!-- Programming languages -->
-![](https://img.shields.io/badge/Language-Assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-Cpp-informational?style=flat&logo=cplusplus&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=oracle&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=white&color=a62336)
-![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=a62336)
-<!-- IDEs -->
-![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=5043ff)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipseide&logoColor=white&color=5043ff)
-![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=5043ff)
+![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Rust-212121?style=flat&logo=rust&logoColor=E35D05)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-212121?style=flat&logo=gnu-bash&logoColor=028534)
+![](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-3E67B3?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Assembly-432121?style=flat&logo=86asm&logoColor=red)
 
-## Find me here
+Microcontrollers
+<!-- Micro -->
+![](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![](https://img.shields.io/badge/STM32-A22846?style=flat&logo=stmicroelectronics&logoColor=white)
+
+Other
+<!-- Other -->
+![](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/MySQL-02569B?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+## 🌐 Find me here
 <a href="https://www.linkedin.com/in/noam-eliyahu-05751a242/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-Noam_Daniel_Eliyahu-informational?style=flat&logo=linkedin&logoColor=white&color=0a66c2" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
-## Nicely done
-<a href="https://github.com/nonoMain/keeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nonoMain&repo=keeper&title_color=21bcdb&text_color=c9cacc&icon_color=21bcdb&bg_color=1d1f21" />
-</a>
-
-## Like my setup? have it!
-<a href="https://github.com/nonoMain/nonoArch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nonoMain&repo=nonoArch&title_color=21bcdb&text_color=c9cacc&icon_color=21bcdb&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/nonoMain/nvimrc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nonoMain&repo=nvimrc&title_color=21bcdb&text_color=c9cacc&icon_color=21bcdb&bg_color=1d1f21" />
-</a>
+## Intrested about my setup/workflow/configs?
+I'll try to upload stuff when I feel like it
+- [x] [My dotfiles](https://github.com/nonoMain/dotfiles)
+- [x] [Home server(s) description](https://github.com/nonoMain/Asgard)
