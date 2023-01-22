@@ -33,6 +33,7 @@ Currently working on [Horus](https://github.com/HorusRS/Horus)
 ![](https://img.shields.io/badge/TrueNAS-0385BD?style=flat&logo=truenas&logoColor=white)
 ![](https://img.shields.io/badge/PhotonOS-167C80?style=flat&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/Docker-113E77?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-2E61CB?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpine-linux&logoColor=white)
 
 ## 🔧 Other tech / tools I'm experienced with
